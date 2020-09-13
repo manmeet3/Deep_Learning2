@@ -1,0 +1,7 @@
+a) TPU Pods - provision a tpu pod (not single tpu but a tpu pod)  in trial gcu account for an hour or so. Build and run a resnet (or any other largescale training pipeline) training pipeline taking a couple of hours to run on imagenet (use examples from tensorflow.org). Provide all the deliverables - do a code walkthrough of the ml model , changes to make it run in tpu, screenshots of the training running in your account, final model deliverables, tensorboard artifacts in a github directory and provide access to the github directory - check links in slides
+
+b) Low level tensorflow code - Use gradient tape and low level tensorflow code (do not use keras) to build a linear classifier, svm classifier (hint: adding margin to the of linear  loss) and deep neural network classifier. Provide the necessary metrics for performance of classifier as well as visualizations. Also build a deep neural network by subclassing the keras layer class (see slides - not functional api  and not using denselayer class - you need to define your own MyDenseLayer using subclassing    ) and demonstrate the performance of it.   - check code and links in slides for hints
+
+c) Write a colab to demonstrate the mixup, label smoothing, cutout  and test time augmentation with proper ablation studies on a small data set (cifar? etc.,,.) - check slides for hints. you can use fastai. 
+
+d) Implement MixMatch semi supervised classification using fastai (check slides) with small data set and provide ablation studies.
