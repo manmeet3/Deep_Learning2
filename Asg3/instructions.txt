@@ -1,0 +1,1 @@
+Finetune SimCLRv2 and compare performance with fine tuned ResNet for the same task
