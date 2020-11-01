@@ -3,6 +3,6 @@
 
 * [Medium Article](https://manmeet3.medium.com/deep-semi-supervised-anomaly-detection-ab1db59d7820)
 
-* [Presentation Video](https://youtu.be/YacuvukoXXg)
+* [Presentation Video](https://youtu.be/Yvs7f2vvSv8)
 
 * [Presentation Slides](https://docs.google.com/presentation/d/1PRoSjMcY3tl4GE9xRDCpjDm5SLD9H7cwk8dBALzvLcw/edit?usp=sharing)
