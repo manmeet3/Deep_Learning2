@@ -5,4 +5,5 @@
 * Update: [Article was accepted into Analytics Vidhya publication](https://medium.com/analytics-vidhya/deep-semi-supervised-anomaly-detection-ab1db59d7820)
 3. [Presentation Video](https://youtu.be/Yvs7f2vvSv8)
 
-4. [Presentation Slides](https://docs.google.com/presentation/d/1PRoSjMcY3tl4GE9xRDCpjDm5SLD9H7cwk8dBALzvLcw/edit?usp=sharing)
+4. [Slideshare Slides](https://www.slideshare.net/manmeetsingh24/deep-semisupervised-anomaly-detection-239910587)
+[Google Slides](https://docs.google.com/presentation/d/1PRoSjMcY3tl4GE9xRDCpjDm5SLD9H7cwk8dBALzvLcw/edit?usp=sharing)
